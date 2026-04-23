@@ -18,7 +18,7 @@ const Navbar = ({ hidden = false }) => {
       {/* Logo */}
       <div className="logo">
         <h1 className="text-3xl font-bold text-white p-1 md:bg-transparent md:text-white">
-          Portofolio
+          E-Portofolio PPL PPG
         </h1>
       </div>
 

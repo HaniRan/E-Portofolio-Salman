@@ -35,10 +35,10 @@ const PreLoader = () => {
         }`}
       >
         <Aurora
-          colorStops={["#577870", "#1F97A6", "#127B99"]}
-          blend={0.5}
-          amplitude={1.0}
-          speed={0.5}
+          colorStops={["#030014", "#4F46E5", "#7C3AED"]} 
+  blend={0.5}
+  amplitude={1.2}
+  speed={0.5}
         />
         <div
           className={`absolute text-white text-6xl font-bold transition-all duration-1000 ${
